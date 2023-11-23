@@ -1,0 +1,19 @@
+{
+  "name": "ep001-webhooks",
+  "version": "1.0.0",
+  "description": "Simple and secure way for a web server to receive (or send) data from (or to) another service provider.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnovatingOps/BeyondCode.git"
+  },
+  "author": "Raymond Darling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InnovatingOps/BeyondCode/issues"
+  },
+  "homepage": "https://github.com/InnovatingOps/BeyondCode#readme"
+}
